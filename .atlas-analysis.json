@@ -1,0 +1,44 @@
+{
+  "projectType": "general",
+  "projectName": "RedcXca",
+  "projectDescription": "Personal portfolio and profile for Max (RedcXca), a software engineering student showcasing digital art, gaming achievements, and creative work.",
+  "theme": "almond",
+  "primaryColor": "#7c7c7c",
+  "lightColor": "#0a0a0a",
+  "darkColor": "#c7c7c7",
+  "navigation": {
+    "groups": [
+      {
+        "group": "About",
+        "pages": ["introduction", "background"]
+      },
+      {
+        "group": "Creative Work",
+        "pages": ["creative/digital-art", "creative/animation", "creative/gallery"]
+      },
+      {
+        "group": "Gaming",
+        "pages": ["gaming/osu-catch", "gaming/achievements"]
+      },
+      {
+        "group": "Connect",
+        "pages": ["connect/social-media", "connect/contact"]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Digital art portfolio and illustrations",
+    "osu! catch gaming achievements (top 10 North America)",
+    "Software engineering student journey",
+    "Creative collaborations and animations",
+    "Social media presence across multiple platforms"
+  ],
+  "publicApiSurface": [
+    "Personal introduction and background",
+    "Digital art gallery from 2023",
+    "osu! catch gaming profile",
+    "Twitter/Discord/Instagram social links",
+    "YouTube channel content",
+    "Badminton hobby"
+  ]
+}
